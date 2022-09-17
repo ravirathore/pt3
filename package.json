@@ -1,0 +1,21 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "\"# hello-heroku\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "feed": "^4.2.2",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "14.17.4"
+  }
+}

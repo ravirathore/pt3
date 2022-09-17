@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>PTI News</title>
+        <link>http://www.ptinews.com/home.aspx</link>
+        <description>PTI News</description>
+        <lastBuildDate>Mon, 27 Jun 2022 06:46:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>PTI News</title>
+            <url>http://www.ptinews.com/images/logo.png</url>
+            <link>http://www.ptinews.com/home.aspx</link>
+        </image>
+        <item>
+            <title><![CDATA[Man killed in suspected tiger attack in UP]]></title>
+            <link>Man killed in suspected tiger attack in UP</link>
+            <guid>Man killed in suspected tiger attack in UP</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA[Man killed in suspected tiger attack in UP]]></description>
+            <content:encoded><![CDATA[Man killed in suspected tiger attack in UP]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Yashwant Sinha files nomination for prez poll]]></title>
+            <link>Yashwant Sinha files nomination for prez poll</link>
+            <guid>Yashwant Sinha files nomination for prez poll</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA[Yashwant Sinha files nomination for prez poll]]></description>
+            <content:encoded><![CDATA[Yashwant Sinha files nomination for prez poll]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Jugjugg Jeeyo' earns Rs 36.93 crore in opening weekend]]></title>
+            <link>'Jugjugg Jeeyo' earns Rs 36.93 crore in opening weekend</link>
+            <guid>'Jugjugg Jeeyo' earns Rs 36.93 crore in opening weekend</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA['Jugjugg Jeeyo' earns Rs 36.93 crore in opening weekend]]></description>
+            <content:encoded><![CDATA['Jugjugg Jeeyo' earns Rs 36.93 crore in opening weekend]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pak intruder killed along IB in Jammu]]></title>
+            <link>Pak intruder killed along IB in Jammu</link>
+            <guid>Pak intruder killed along IB in Jammu</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA[Pak intruder killed along IB in Jammu]]></description>
+            <content:encoded><![CDATA[Pak intruder killed along IB in Jammu]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Alia Bhatt, Ranbir Kapoor expecting first child]]></title>
+            <link>Alia Bhatt, Ranbir Kapoor expecting first child</link>
+            <guid>Alia Bhatt, Ranbir Kapoor expecting first child</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA[Alia Bhatt, Ranbir Kapoor expecting first child]]></description>
+            <content:encoded><![CDATA[Alia Bhatt, Ranbir Kapoor expecting first child]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Five fresh COVID-19 cases in Andamans]]></title>
+            <link>Five fresh COVID-19 cases in Andamans</link>
+            <guid>Five fresh COVID-19 cases in Andamans</guid>
+            <pubDate>Mon, 27 Jun 2022 06:46:20 GMT</pubDate>
+            <description><![CDATA[Five fresh COVID-19 cases in Andamans]]></description>
+            <content:encoded><![CDATA[Five fresh COVID-19 cases in Andamans]]></content:encoded>
+        </item>
+    </channel>
+</rss>
